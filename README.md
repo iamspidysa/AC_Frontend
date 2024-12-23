@@ -1,2 +1,2 @@
 # AC_Frontend
-# Learning Frontend from sratch
+# Learning Frontend from scratch
